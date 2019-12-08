@@ -1,0 +1,29 @@
+vim
+
+three modes- command mode, insert mode, visual mode
+
+go to insert mode - Enter i or a
+exit insert mode- press 'esc'
+ 
+:w save 
+:wq save and quit
+
+ b53fcc9
+-------------------------------------------------------------------------
+Branch 
+
+git branch
+
+Create new branch
+git branch dev
+
+Change branch
+git checkout branch
+
+Merge branch and master
+Go to the source (where branch is added)
+git merge dev <-- branch name
+
+Clone 
+git clone app app2
+
